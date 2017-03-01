@@ -3,3 +3,6 @@ A console approach often use by video games such as "Dota 2" or "The Elder Scrol
 Web application can also expose a console to speed up certain process. A console command indeed can be faster than a click of button. It is also open a possibility to live debug web application using console by developers.
 
 This project is based on Carlos Saloio's course in Pluralsight that can be reuse in other web project.
+
+Click the following link to demo:
+http://www.bagusilman.com/web-console/
